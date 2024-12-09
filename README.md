@@ -4,7 +4,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-My name is Ayman Touhni and I'm a software engineer from Morocco. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+My name is Ayman Touhni and I'm a software engineer from Morocco.
 
 
 ### Check out my portfolio: [Click Here](https://zakariaalla.github.io/)
